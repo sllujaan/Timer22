@@ -73,6 +73,7 @@ const Timer = require("./Timer.js");
 ```
 
 ```js
+// in script tag or index.js file
 const container = document.querySelectorAll(".container")[0];
 //create timer
 const timer12 = new Timer({
