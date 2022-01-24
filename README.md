@@ -12,6 +12,16 @@
 
 ![Group 19](https://user-images.githubusercontent.com/31973579/150757634-37822d97-b302-4286-8b60-b1a149c8ddaf.png)
 
+# Features
+- 7+ Themes.
+- Fully Customizable.
+- Touch Support.
+- Modern UI.
+- Javascript options.
+- Custom callbacks.
+- Fully Responsive.
+- Cross-browser.
+- Well documented.
 
 ## [Click Here to See Live Demo](https://sllujaan.github.io/Timer22/)🚀
 
