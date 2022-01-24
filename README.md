@@ -118,49 +118,49 @@ timer12.onChange(value => {
 # Possible values:
 ### [target:](#configuration)
 - HTMLElement
-[format:](#configuration)
-12-hrs
-24-hrs
-[theme:](#configuration)
-theme-bootstrap
-theme-white
-theme-black
-theme-white-red
-theme-black-red
-theme-bootstrap-2
-theme-bootstrap-3
-[labelColor:](#configuration)
-CSS Value
-[labelHours:](#configuration)
-Text Value
-[labelMinutes:](#configuration)
-Text Value
-[labelSeconds:](#configuration)
-Text Value
-[labelAmPM:](#configuration)
-Text Value
-[labelSize:](#configuration)
-CSS Value
-[labelWeight:](#configuration)
-CSS Value
-[separatorColor:](#configuration)
-CSS Value
-[backgroundColor:](#configuration)
-CSS Value
-[fontColor:](#configuration)
-CSS Value
-[focusFontColor:](#configuration)
-CSS Value
-[iconsColor:](#configuration)
-CSS Value
-[fontSize:](#configuration)
-CSS Value
-[fontWeight:](#configuration)
-CSS Value
-[ampmSize:](#configuration)
-CSS Value
-[ampmWeight:](#configuration)
-CSS Value
+### [format:](#configuration)
+- 12-hrs
+- 24-hrs
+### [theme:](#configuration)
+- theme-bootstrap
+- theme-white
+- theme-black
+- theme-white-red
+- theme-black-red
+- theme-bootstrap-2
+- theme-bootstrap-3
+### [labelColor:](#configuration)
+- CSS Value
+### [labelHours:](#configuration)
+- Text Value
+### [labelMinutes:](#configuration)
+- Text Value
+### [labelSeconds:](#configuration)
+- Text Value
+### [labelAmPM:](#configuration)
+- Text Value
+### [labelSize:](#configuration)
+- CSS Value
+### [labelWeight:](#configuration)
+- CSS Value
+### [separatorColor:](#configuration)
+- CSS Value
+### [backgroundColor:](#configuration)
+- CSS Value
+### [fontColor:](#configuration)
+- CSS Value
+### [focusFontColor:](#configuration)
+- CSS Value
+### [iconsColor:](#configuration)
+- CSS Value
+### [fontSize:](#configuration)
+- CSS Value
+### [fontWeight:](#configuration)
+- CSS Value
+### [ampmSize:](#configuration)
+- CSS Value
+### [ampmWeight:](#configuration)
+- CSS Value
 
 ## [Click Here to See Live Demo](https://sllujaan.github.io/Timer22/)🚀
 
