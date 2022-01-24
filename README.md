@@ -23,5 +23,68 @@
 - Cross-browser.
 - Well documented.
 
+# Installation
+
+**For Commonjs & ESModules:**
+
+```js
+// in commonjs & ESModules
+import Timer from "./Timer.js";
+// or
+// in commonjs
+const Timer = require("./Timer.js");
+```
+
+**In Plain Javascript:**
+
+```html
+<!-- in html file -->
+<head>
+  ...
+  <script src="./Timer.js"></script>
+  ...
+</head>
+<body>
+  ...
+  <script type="text/javascript">
+    // code
+  </script>
+</body>
+```
+
+# Use
+
+```html
+<!-- in html file -->
+<head>
+  ...
+  <style>
+    .container {
+        background-color: black;
+        width: 600px;
+        height: 300px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container"></div>
+  ...
+</body>
+```
+
+```js
+const container = document.querySelectorAll(".container")[0];
+//create timer
+const timer12 = new Timer({
+  target: container,
+  format: "12-hrs",
+  theme: "theme-bootstrap",
+});
+// track change
+timer12.onChange(value => {
+  console.log(value);
+});
+```
+
 ## [Click Here to See Live Demo](https://sllujaan.github.io/Timer22/)🚀
 
