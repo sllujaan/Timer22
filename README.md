@@ -87,5 +87,33 @@ timer12.onChange(value => {
 });
 ```
 
+# Configuration
+
+```typescript
+{
+  target: HTMLElement,  // required
+  format: string,       // required
+  theme: string,        // optional
+  options: {            // optional
+    labelColor: string,
+    labelHours: string,
+    labelMinutes: string,
+    labelSeconds: string,
+    labelAmPM: string,
+    labelSize: string,
+    labelWeight: string,
+    separatorColor: string,
+    backgroundColor: string,
+    fontColor: string,
+    focusFontColor: string,
+    iconsColor: string,
+    fontSize: string,
+    fontWeight: string,
+    ampmSize: string,
+    ampmWeight: string
+  }
+}
+```
+
 ## [Click Here to See Live Demo](https://sllujaan.github.io/Timer22/)🚀
 
